@@ -1,8 +1,0 @@
-{
-  "short_name": "椰子猪的那点事",
-  "name": "Welcome",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
